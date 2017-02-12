@@ -3,7 +3,7 @@
 !VERSION,1.00.00
 !DOC_TYPE,Operator's Manual
 !OUT_DIR,tritech_micron_sonar/
-!VALID_PAGES,
+!INCLUDED_PAGES,
 !VALID_TEXT,
 !TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
 
